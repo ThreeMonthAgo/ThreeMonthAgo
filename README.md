@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm ThreeMonthAgo, a curious explorer with a passion for learning new things.
+
 - 🔭 I’m currently working on [Ink_Canvas_Better](https://github.com/ThreeMonthAgo/Ink_Canvas_Better)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThreeMonthAgo&color=red)
